@@ -1,0 +1,9 @@
+#Spotify
+## APK
+http://download.spotify.com/android/SpotifyAndroid.apk
+
+## Spotify in browser
+https://open.spotify.com/browse
+
+# F-Droid
+https://f-droid.org/F-Droid.apk
