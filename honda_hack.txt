@@ -7,3 +7,14 @@ https://open.spotify.com/browse
 
 # F-Droid
 https://f-droid.org/F-Droid.apk
+
+# Installed through Honda Hack
+Map - Here we Go
+- Works well
+
+Issues
+======
+2020/12/08
+Last digit of time is cut off.
+Can't install Spotify or F-Droid from web apk
+Try from sd_card
